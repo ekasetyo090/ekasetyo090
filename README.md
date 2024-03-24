@@ -29,6 +29,12 @@
   <a><img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"</a>
 </p>
 
+## 🎖️ Badges
+<p align="center">
+  <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" height="10%" alt="SAS Badge"/></a>
+  <a href="https://www.dicoding.com/certificates/N9ZOO3VR0ZG5" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQE67NR7bcX-Mg/profile-treasury-document-cover-images_480/0/1701323570676?e=1711911600&v=beta&t=-pcNdRvOUIGQ6GCAtQPmyHo0Jgrn9T9iYLie1q1SQxo" width="15%" height="15%" alt="Build and Optimize Data Warehouses with BigQuery"/></a>
+</p>
+
 ## ☕ Support me!
 [<img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" >](https://trakteer.id/eka-agung-090)
 
