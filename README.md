@@ -44,6 +44,7 @@
 
 ## 📰 Latest Projects/Posts
 - [T-SCRAPY (TOKOPEDIA Web Scraping And SQL Storing)](https://github.com/ekasetyo090/T-SCRAPY)
+- [Youtube Algorithm Analysis](https://github.com/ekasetyo090/T-SCRAPY)
   
 ## ☕ Support me!
 [<img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" >](https://trakteer.id/eka-agung-090)
