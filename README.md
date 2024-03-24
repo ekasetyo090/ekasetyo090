@@ -6,4 +6,5 @@
 - 🌟 Hobi: Memuaskan rasa penasaran
   
 ## ☕ Support me!
-[![trakteer](https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023)]([https://ko-fi.com/D1D3JU963](https://trakteer.id/eka-agung-090))
+[<img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">](https://trakteer.id/eka-agung-090)
+
