@@ -1,4 +1,3 @@
-### Halo There👋
 <p align="center">
   <a href="https://www.linkedin.com/in/eka-setyo-agung-mahanani" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario">
@@ -8,6 +7,12 @@
   </a>
 </p>
 
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
+### `Hello World!👋`
+- My name is **EKa**. I use this platform as my place to share my previous works/projects.
+- You can contact me via **[LinkedIn](https://www.linkedin.com/in/eka-setyo-agung-mahanani)** or my **[personal email](mailto:ekaagung090@gmail.com)**. <br>
+- Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
+  
 ## 🎯 Skills
 <p align="center">
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
