@@ -42,6 +42,9 @@
   <a href="https://cs50.harvard.edu/certificates/73660135-6946-47c3-9176-e1b3c5922a96" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQHYJYSietnQsA/profile-treasury-document-cover-images_480/0/1695974839063?e=1711911600&v=beta&t=xZ-sNAxCgoq-hcvmobT7imNF5sy9f16QBSq06i19_n4" width="15%" height="15%" alt="CS50X"/></a>
 </p>
 
+## 📰 Latest Projects/Posts
+- [T-SCRAPY (SQL and Web Scraping)](https://github.com/ekasetyo090/T-SCRAPY)
+  
 ## ☕ Support me!
 [<img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" >](https://trakteer.id/eka-agung-090)
 
