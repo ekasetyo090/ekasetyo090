@@ -1,9 +1,18 @@
-### Halo saya eka 👋
+### Halo There👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/eka-setyo-agung-mahanani" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario">
+  </a>
+  <a href="mailto:ekaagung090@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caesarmario87@gmail.com">
+  </a>
+</p>
 
-- 🔭 I’m currently looking job as data analyst or data scientist
-- 📫 How to reach me: https://www.linkedin.com/in/eka-setyo-agung-mahanani/
-- ⚡ Fun fact: Interested on computer since elementary school, and first tool to use is wordart (windows97)
-- 🌟 Hobi: Memuaskan rasa penasaran
+## 🎯 Skills
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+</p>
 
 ## 🖥 Software
 <p align="center">
