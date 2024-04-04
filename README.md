@@ -31,8 +31,12 @@
 
 ## 🎖️ Badges
 <p align="center">
-  <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="30%" height="30%" alt="Cisco Intro Cybersecurity"/></a>
-  <a href="https://www.dicoding.com/certificates/N9ZOO3VR0ZG5" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQE67NR7bcX-Mg/profile-treasury-document-cover-images_480/0/1701323570676?e=1712858400&v=beta&t=EIJ7vPsDWQSzhnM0AKTAPjG2JUcyjtKERrqPzg2ADIk" width="15%" height="15%" alt="Data Visualization"/></a>
+  <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" height="10%" alt="Cisco Intro Cybersecurity"/></a>
+</p>
+
+## 🎖️ Certificate
+<p align="center">
+  <a href="https://www.dicoding.com/certificates/N9ZOO3VR0ZG5" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQE67NR7bcX-Mg/profile-treasury-document-cover-images_480/0/1701323570676?e=1712858400&v=beta&t=EIJ7vPsDWQSzhnM0AKTAPjG2JUcyjtKERrqPzg2ADIk" width="30%" height="30%" alt="Data Visualization"/></a>
   <a href="https://www.dicoding.com/certificates/L4PQ8WQ97ZO1" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQGDFFkOqK5VPg/profile-treasury-document-cover-images_480/0/1697285181732?e=1712858400&v=beta&t=VichQU2ji0MzX6JsxbGq6n3MD-ThPwU-PPvZxAP83R4" width="15%" height="15%" alt="Python Data Analysis"/></a>
   <a href="https://www.dicoding.com/certificates/JLX1WJEYNP72" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQHBnf-7qYLE1w/profile-treasury-document-cover-images_480/0/1698135714749?e=1712858400&v=beta&t=X3LcaZbxhwc_x2d2gUUoCona0AeQ_VFs5S5X7H-XjFM" width="15%" height="15%" alt="Machine Learning"/></a>
   <a href="https://www.dicoding.com/certificates/N9ZO5M3DDPG5" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQEOQickciMqpA/profile-treasury-document-cover-images_480/0/1695974910362?e=1712858400&v=beta&t=XQUtMYJ2oa5l-E7WRBV5xHbDSSnvcltY1xyKQaH-66U" width="15%" height="15%" alt="Data Science"/></a>
