@@ -31,7 +31,7 @@
 
 ## 🎖️ Badges
 <p align="center">
-  <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" height="10%" alt="Cisco Intro Cybersecurity"/></a>
+  <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="15%" height="15%" alt="Cisco Intro Cybersecurity"/></a>
 </p>
 
 ## 🎖️ Certificate
