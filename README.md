@@ -31,24 +31,17 @@
 
 ## 🎖️ Badges
 <p align="center">
-  <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="50%" height="50%" alt="Cisco Intro Cybersecurity"/></a>
-  
+  <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="30%" height="30%" alt="Cisco Intro Cybersecurity"/></a>
   <a href="https://www.dicoding.com/certificates/N9ZOO3VR0ZG5" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQE67NR7bcX-Mg/profile-treasury-document-cover-images_480/0/1701323570676?e=1712858400&v=beta&t=EIJ7vPsDWQSzhnM0AKTAPjG2JUcyjtKERrqPzg2ADIk" width="15%" height="15%" alt="Data Visualization"/></a>
-  
-  <a href="https://www.dicoding.com/certificates/L4PQ8WQ97ZO1" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQGDFFkOqK5VPg/profile-treasury-document-cover-images_480/0/1697285181732?e=1711911600&v=beta&t=r-neOcSYTrpJi6zCTTMEMU34FkLHDW-AGfiS0_4DWBA" width="15%" height="15%" alt="Python Data Analysis"/></a>
-  
-  <a href="https://www.dicoding.com/certificates/JLX1WJEYNP72" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQHBnf-7qYLE1w/profile-treasury-document-cover-images_480/0/1698135714749?e=1711911600&v=beta&t=WDGT1KDrppbc7btfYLx0mQKkC2oyJHdyE2UUtqVR_mg" width="15%" height="15%" alt="Machine Learning"/></a>
-  
-  <a href="https://www.dicoding.com/certificates/N9ZO5M3DDPG5" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQEOQickciMqpA/profile-treasury-document-cover-images_480/0/1695974910362?e=1711911600&v=beta&t=cFRuWKRfe9u7NjB9HSmZTYNp3jwpnhkWxPNaPBoxuKE" width="15%" height="15%" alt="Data Science"/></a>
-  
-  <a href="https://www.dicoding.com/certificates/JMZV13QQQXN9" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQFg0OF-AW0ibg/profile-treasury-document-cover-images_480/0/1695974996163?e=1711911600&v=beta&t=BhIsK46cfe9qqD245fVXD58hiBuZ2ynlhLdkjQntxl8" width="15%" height="15%" alt="SQL"/></a>
-  
-  <a href="https://www.dicoding.com/certificates/L4PQ817LQZO1" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQFOGxEpPDfL5Q/profile-treasury-document-cover-images_480/0/1695975057111?e=1711911600&v=beta&t=2hudT3RVYnNy4gm_Nn0c1eH5dMa4tz4ui_OnOfIN2yg" width="15%" height="15%" alt="Python"/></a>
-  
+  <a href="https://www.dicoding.com/certificates/L4PQ8WQ97ZO1" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQGDFFkOqK5VPg/profile-treasury-document-cover-images_480/0/1697285181732?e=1712858400&v=beta&t=VichQU2ji0MzX6JsxbGq6n3MD-ThPwU-PPvZxAP83R4" width="15%" height="15%" alt="Python Data Analysis"/></a>
+  <a href="https://www.dicoding.com/certificates/JLX1WJEYNP72" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQHBnf-7qYLE1w/profile-treasury-document-cover-images_480/0/1698135714749?e=1712858400&v=beta&t=X3LcaZbxhwc_x2d2gUUoCona0AeQ_VFs5S5X7H-XjFM" width="15%" height="15%" alt="Machine Learning"/></a>
+  <a href="https://www.dicoding.com/certificates/N9ZO5M3DDPG5" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQEOQickciMqpA/profile-treasury-document-cover-images_480/0/1695974910362?e=1712858400&v=beta&t=XQUtMYJ2oa5l-E7WRBV5xHbDSSnvcltY1xyKQaH-66U" width="15%" height="15%" alt="Data Science"/></a>
+  <a href="https://www.dicoding.com/certificates/JMZV13QQQXN9" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQFg0OF-AW0ibg/profile-treasury-document-cover-images_480/0/1695974996163?e=1712858400&v=beta&t=e-VPF1RzALvXZOvvs0cuSA7HfUDsllkxgGDxqq3LMeo" width="15%" height="15%" alt="SQL"/></a>
+  <a href="https://www.dicoding.com/certificates/L4PQ817LQZO1" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQFOGxEpPDfL5Q/profile-treasury-document-cover-images_480/0/1695975057111?e=1712858400&v=beta&t=hFLLWZl4mS24HFwFNLGa1qHqVnQFheOGZ_HPw1fTTlI" width="15%" height="15%" alt="Python"/></a>
+  <a href="https://cs50.harvard.edu/certificates/73660135-6946-47c3-9176-e1b3c5922a96" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQHYJYSietnQsA/profile-treasury-document-cover-images_480/0/1695974839063?e=1712858400&v=beta&t=-Ln2aro9RW7zuctQi0a_67KPlTg9KbqDNWt67hCydHk" width="15%" height="15%" alt="CS50X"/></a>
+</p>
   <!--<a href="https://kelas.work/bootcamp/enrolled/classes/data-science/certificate/claim/1171229/12#toolbar=0" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQFYbbOOVQCYBA/profile-treasury-document-cover-images_480/0/1704565197702?e=1711911600&v=beta&t=rWKAo-cwQfRedf3WGhmUvFybba_QmsZe6T8QbqVN6Ak" width="15%" height="15%" alt="Data Science Kelas"/></a>-->
   
-  <a href="https://cs50.harvard.edu/certificates/73660135-6946-47c3-9176-e1b3c5922a96" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQHYJYSietnQsA/profile-treasury-document-cover-images_480/0/1695974839063?e=1711911600&v=beta&t=xZ-sNAxCgoq-hcvmobT7imNF5sy9f16QBSq06i19_n4" width="15%" height="15%" alt="CS50X"/></a>
-</p>
 
 ## 📰 Latest Projects/Posts
 - [T-SCRAPY (TOKOPEDIA Web Scraping And SQL Storing)](https://github.com/ekasetyo090/T-SCRAPY)
