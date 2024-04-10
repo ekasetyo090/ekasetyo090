@@ -34,7 +34,7 @@
   <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="15%" height="15%" alt="Cisco Intro Cybersecurity"/></a>
 </p>
 
-## 🎖️ Certificate
+## 🎖️ Course
 <p align="center">
   <a href="https://cs50.harvard.edu/certificates/73660135-6946-47c3-9176-e1b3c5922a96" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQHYJYSietnQsA/profile-treasury-document-cover-images_480/0/1695974839063?e=1712858400&v=beta&t=-Ln2aro9RW7zuctQi0a_67KPlTg9KbqDNWt67hCydHk" width="40%" height="40%" alt="CS50X"/></a>
   <a href="https://kelas.work/bootcamp/enrolled/classes/data-science/certificate/claim/1171229/12#toolbar=0" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D562DAQFYbbOOVQCYBA/profile-treasury-document-cover-images_480/0/1704565197702?e=1712858400&v=beta&t=gu37Ch1Y08GQs7YvIDHWX4CmdEye8cJ3dOSV7c83NAw" width="40%" height="40%" alt="Data Science Kelas"/></a>
