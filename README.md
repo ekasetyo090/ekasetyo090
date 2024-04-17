@@ -36,11 +36,16 @@
 
 ## 🎖️ Course
 <p align="center">
-  <a href="https://cs50.harvard.edu/certificates/73660135-6946-47c3-9176-e1b3c5922a96" target="_blank" rel="noopener noreferrer"><img src="https://certificates.cs50.io/73660135-6946-47c3-9176-e1b3c5922a96.pdf?size=letter" width="40%" height="40%" alt="CS50X"/></a>
-  <a href="https://kelas.work/bootcamp/enrolled/classes/data-science/certificate/claim/1171229/12#toolbar=0" target="_blank" rel="noopener noreferrer"><img src="https://kelas.work/bootcamp/enrolled/classes/data-science/certificate/job-connector/sertifikat-rapor/claim/1171229/12#toolbar=0" width="40%" height="40%" alt="Data Science Kelas"/></a>
- 
+  <a href="https://cs50.harvard.edu/certificates/73660135-6946-47c3-9176-e1b3c5922a96" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1695974839063.jpg" width="40%" height="40%" alt="CS50X"/></a>
+  <a href="https://kelas.work/bootcamp/enrolled/classes/data-science/certificate/claim/1171229/12#toolbar=0" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1704565197702.jpg" width="40%" height="40%" alt="Data Science Kelas"/></a>
+  <a href="https://www.dicoding.com/certificates/N9ZOO3VR0ZG5" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1701323570676.jpg" width="40%" height="40%" alt="Data Visualization"/></a>
+  <a href="https://www.dicoding.com/certificates/L4PQ8WQ97ZO1" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1697285181732.jpg" width="40%" height="40%" alt="Python Data Analysis"/></a>
+  <a href="https://www.dicoding.com/certificates/JLX1WJEYNP72" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1698135714749.jpg" width="40%" height="40%" alt="Machine Learning"/></a>
+  <a href="https://www.dicoding.com/certificates/N9ZO5M3DDPG5" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1695974910362.jpg" width="40%" height="40%" alt="Data Science"/></a>
+  <a href="https://www.dicoding.com/certificates/JMZV13QQQXN9" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1695974996163.jpg" width="40%" height="40%" alt="SQL"/></a>
+  <a href="https://www.dicoding.com/certificates/L4PQ817LQZO1" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1695975057111.jpg" width="40%" height="40%" alt="Python"/></a>
 </p>
-
+</p>
 
   
 
@@ -51,4 +56,3 @@
   
 ## ☕ Support me!
 [<img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" >](https://trakteer.id/eka-agung-090)
-
