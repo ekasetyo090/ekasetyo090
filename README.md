@@ -32,6 +32,7 @@
 ## 🎖️ Badges
 <p align="center">
   <a href="https://www.credly.com/badges/cd407606-0e5e-49fa-ae86-0207c49ebaa1/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="15%" height="15%" alt="Cisco Intro Cybersecurity"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/0e98e228-1044-456b-9b53-a266ad65b7d0/badges/9551387" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D" width="15%" height="15%" alt="Gen Alus Arcade"/></a>
 </p>
 
 ## 🎖️ Course
@@ -45,7 +46,7 @@
   <a href="https://www.dicoding.com/certificates/JMZV13QQQXN9" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1695974996163.jpg" width="40%" height="40%" alt="SQL"/></a>
   <a href="https://www.dicoding.com/certificates/L4PQ817LQZO1" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ekasetyo090/ekasetyo090/blob/934f74eefba6ca9d6e2dd282fe2ecba133f3a0c5/1695975057111.jpg" width="40%" height="40%" alt="Python"/></a>
 </p>
-</p>
+
 
   
 
